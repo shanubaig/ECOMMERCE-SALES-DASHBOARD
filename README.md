@@ -19,3 +19,4 @@ Time-Based Analysis → Compare sales monthly, quarterly, and yearly.
 ✔️ Allocate resources effectively
 
 📈 By transforming raw data into clear visuals, this project demonstrates how data analytics can play a vital role in optimizing e-commerce operations.
+https://github.com/shanubaig/ECOMMERCE-SALES-DASHBOARD/blob/main/ECOMMERCE%20SALES%20DASHBOARD.png
